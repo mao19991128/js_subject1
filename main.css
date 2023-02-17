@@ -1,0 +1,16 @@
+time {
+    font-size: 60px;
+}
+
+button {
+    margin: 20px 0;
+    padding:20px;
+    background-color: darkgrey;
+    border-radius: 15px;
+    border-color: gray;
+}
+
+button:hover {
+    background-color: lightgray;
+    border-color: whitesmoke;
+}
